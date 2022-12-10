@@ -264,6 +264,12 @@ li {
      margin-right: 170px;
 }
 
+.social-icon {
+     border: 1px solid var(--white-color);
+     border-radius: 40px;
+     padding: 10px;
+}
+
 .copyright-info {
      text-align: right;
 }
